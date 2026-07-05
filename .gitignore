@@ -7,3 +7,8 @@ __pycache__/
 # 虚拟环境
 venv/
 env/
+## 以下后面会提到
+# 忽略模型权重
+/models/
+# 忽略虚拟环境
+/env_rag1/
